@@ -101,8 +101,6 @@ Created a mobile menu for the portfolio project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Features that will be added to the project in the near future.
