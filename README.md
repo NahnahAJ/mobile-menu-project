@@ -42,7 +42,11 @@ Created a mobile menu for the portfolio project.
     <li><a href="https://www.css.org/">CSS</a></li>
   </ul>
       <ul>
-    <li><a href="https://www.css.org/">Figma</a></li>
+    <li><a href="https://www.figma.org/">Figma</a></li>
+  </ul>
+    </ul>
+      <ul>
+    <li><a href="https://www.javascript.org/">Javascript</a></li>
   </ul>
 </details>
 
@@ -52,15 +56,13 @@ Created a mobile menu for the portfolio project.
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming soon
+- [View Project](https://nahnahaj.github.io/mobile-menu-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -89,8 +91,6 @@ Created a mobile menu for the portfolio project.
 
 ## 👥 Author <a name="author"></a>
 
-> I was the sole collaborator in this project.
-
 👤 **Nahnah Ahjuwah**
 
 - GitHub: [@NahnahAJ](https://github.com/NahnahAJ)
@@ -102,8 +102,6 @@ Created a mobile menu for the portfolio project.
 
 <!-- FUTURE FEATURES -->
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Features that will be added to the project in the near future.
 
 - [ ] **[Complete the Desktop View of the portfolio]**
 - [ ] **[Actual projects will be added to the portfolio]**
