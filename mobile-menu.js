@@ -6,28 +6,26 @@ const closeButton = document.querySelector('.close-btn');
 
 hamburger.addEventListener('click', () => {
   // toggle mobileNav when hamburger is clicked
-    mobileNav.style.display = 'block';
-    logo.style.display = 'none';
+  mobileNav.style.display = 'block';
+  logo.style.display = 'none';
   closeButton.style.display = 'block';
   hamburger.style.display = 'none';
-  });
+});
 
-  // When the close button is clicked
+// When the close button is clicked
 closeButton.addEventListener('click', () => {
   mobileNav.style.display = 'none';
   logo.style.display = 'block';
   hamburger.style.display = 'block';
   closeButton.style.display = 'none';
-  })
-
+});
 
 // close mobileNav when navLink is clicked
-navLInks.forEach(link => {
-  link.addEventListener("click", () => {
-    mobileNav.style.display = "none";
-    logo.style.display = "block";
-    hamburger.style.display = "block";
-  closeButton.style.display = 'none';
-
-  })
-})
+navLInks.forEach((link) => {
+  link.addEventListener('click', () => {
+    mobileNav.style.display = 'none';
+    logo.style.display = 'block';
+    hamburger.style.display = 'block';
+    closeButton.style.display = 'none';
+  });
+});
