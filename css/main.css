@@ -419,10 +419,17 @@ textarea {
 
 #mobile-nav {
   display: none;
+  height: 100vh;
+  background-color: #3C3A39;
 }
 
-.display {
-  display: block;
+.close-btn {
+  display: none;
+  position: absolute;
+  right: 25px;
+  top: 25px;
+  font-size: 2rem;
+  cursor: pointer;
 }
 
 @media all and (min-width: 720px) {
@@ -440,6 +447,7 @@ textarea {
   .desktop-icon {
     display: block;
     height: 50%;
+    background-image: url("../media/svg/desktop.svg");
   }
 
   #intro {
